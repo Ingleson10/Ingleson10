@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Sou um **Analista Desenvolvedor** com mais de 5 anos de experiência no mercado de TI, buscando uma nova oportunidade de emprego no regime CLT/MEI. Tenho paixão por aprimorar minhas habilidades, adquirir conhecimento adicional e contribuir para o sucesso da minha futura equipe e empresa.
+Sou um **Analista Desenvolvedor** com mais de 5 anos de experiência em TI, especializado em desenvolvimento full stack e apaixonado por aprender e aplicar novas tecnologias. Estou sempre em busca de novos desafios que me permitam colaborar com equipes dinâmicas e contribuir para o sucesso de projetos inovadores.
 
 ### Características Profissionais
 
