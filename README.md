@@ -81,5 +81,5 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
 
 ## Contato
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/erikarruda)
-- E-mail: [Seu Email](mailto:seuemail@example.com)
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/erik-ingleson-amaral-arruda-b730ba157/)
+- E-mail: [Seu Email](erik.ingleson10.ei@gmail.com)
