@@ -112,8 +112,8 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=erikarruda&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikarruda&langs_count=4&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingleson10&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingleson10&langs_count=4&count_private=true"/>
 </p>
 
 ## Contato
