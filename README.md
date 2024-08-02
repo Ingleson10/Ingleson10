@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Computer+Engineer+and+Software+Developer" alt="Computer Engineer and Software Developer" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Computer+Engineer+and+Software+Developer" alt="Computer Development Analyst" />
 </p>
 
 <!-- <details open> 
