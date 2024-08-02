@@ -52,7 +52,6 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="JPA" src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img alt="MVC" src="https://img.shields.io/badge/MVC-00599C?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 ### Ferramentas e Plataformas
@@ -79,7 +78,7 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### Microserviços
+### Arquitetura Microserviços
 
 <p align="center">
   <img alt="MVC" src="https://img.shields.io/badge/MVC-00599C?style=for-the-badge&logo=dotnet&logoColor=white">
