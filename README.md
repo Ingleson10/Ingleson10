@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="erik-ingleson.jpeg" alt="Erik Ingleson Amaral Arruda" />
+  <img align="center" src="./src/erik-ingleson.jpeg" alt="Erik Ingleson Amaral Arruda" />
 </p>
 
 <p align="center">
