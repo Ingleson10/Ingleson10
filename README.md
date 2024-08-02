@@ -132,4 +132,4 @@ Sou um **Analista Desenvolvedor** com mais de 5 anos de experiência em TI, espe
 ## Contato
 
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/erik-ingleson-amaral-arruda-b730ba157/)
-- E-mail: [Seu Email](mailto:erik.ingleson10.ei@gmail.com)
+- E-mail: [Seu Email](erik.ingleson10.ei@gmail.com)
