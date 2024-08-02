@@ -1,8 +1,4 @@
 <p align="center">
-  <img align="center" src="./src/erik-ingleson.jpeg" alt="Erik Ingleson Amaral Arruda" width="200" />
-</p>
-
-<p align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Analista+Desenvolvedor" alt="Analista Desenvolvedor" />
 </p>
 
