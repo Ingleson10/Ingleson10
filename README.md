@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Analista+Desenvolvedor+Pleno" alt="Analista Desenvolvedor" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Analista+Desenvolvedor" alt="Analista de Desenvolvedor" />
 </p>
 
 ---
@@ -20,56 +20,6 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
 - **Resolução de Problemas e Comunicação**: Forte capacidade de comunicação verbal e escrita.
 - **Comprometimento e Assiduidade**: Histórico de compromisso com projetos e assiduidade exemplar.
 
-## Formação Acadêmica
-
-- **Curso Técnico em inglês** – Cursando na Fluency Academy.
-- **Certificação CRM Dados e o Futuro Centrado no Cliente** (Coursera)
-- **Certificação Estrutura de Dados em Python** (Anhanguera)
-- **Certificação Introdução à Análise de Dados com Python** (Anhanguera)
-- **Certificação Introdução à Linguagem Python** (Anhanguera)
-- **Certificação PL-SQL 2024**
-- **Curso de Python 3 básico ao avançado** – Cursando na Udemy.
-- **Curso JAVA completo Programação Orientada à Objetos** – Udemy.
-- **Graduação em Análise e Desenvolvimento de Sistemas** – Conclusão 2022 UNIP.
-- **Desenvolvimento Web Full Stack** – Conclusão 2022 Digital House.
-- **Microsoft 365 Fundamentals (MS-900)** – Conclusão 2020 KA Solution
-- **Microsoft Azure Data Fundamentals (DP-900)** – Conclusão 2020 KA Solution
-- **Microsoft Azure Fundamentals (AZ-900)** – Conclusão 2020 KA Solution
-- **Hardware Módulo III Suporte Avançado (Service Desk)** – Conclusão 2018 IMPACTA
-- **Hardware Módulo II Análise e Prática** – Conclusão 2018 IMPACTA
-- **Hardware Módulo I Montagem e Manutenção de Computadores** – Conclusão 2018 IMPACTA
-
-## Experiência Profissional
-
-### Cabral & Valentim Advocacia e Consultoria
-**11/2023 – 02/2023**
-
-- Suporte ao usuário final, remoto e presencial.
-- Instalação e atualização de softwares.
-- Execução de backups e manutenção de hardware.
-- Administração de servidores Windows e Linux.
-- Gerenciamento de redes e dispositivos Mikrotik.
-- Virtualização de servidores com ProxMox.
-
-### Mazza/Caixa Residencial
-**04/2023 – 10/2023**
-
-- Ferramentas de Versionamento: GitHub.
-- Metodologia: Ágil Scrum.
-- Testes unitários e funcionais.
-- Linguagens: AngularJS, Java 8 (Spring Boot), JPA, Hibernate e PL-SQL.
-- Desenvolvimento de consultas em PL-SQL.
-- Integrações de mensageria e persistência de dados.
-- Uso da ferramenta Jira.
-
-### Quality/Tegma
-**03/2021 – 03/2023**
-
-- Suporte tecnológico às plataformas logísticas (WMS, TMS, YMS).
-- Correção de bugs e orientação no sistema.
-- Monitoramento com Zabbix.
-- Análise de dados em SQL e PL-SQL.
-
 ## Habilidades
 
 ### Linguagens de Programação
@@ -80,6 +30,12 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="PL-SQL" src="https://img.shields.io/badge/PL--SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=black">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-0367b2?&style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="EJS" src="https://img.shields.io/badge/EJS-8e44ad?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Lógica de Programação" src="https://img.shields.io/badge/Lógica%20de%20Programação-1e90ff?style=for-the-badge&logo=code&logoColor=white">
 </p>
 
 ### Frameworks
@@ -89,6 +45,7 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
   <img alt="AngularJS" src="https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 ### Ferramentas e Plataformas
@@ -99,6 +56,20 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img alt="Zabbix" src="https://img.shields.io/badge/zabbix-%23CC0000.svg?style=for-the-badge&logo=zabbix&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white">
+</p>
+
+### Banco de Dados
+
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="H2" src="https://img.shields.io/badge/H2%20Database-006600?style=for-the-badge&logo=h2&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ### Estatísticas do GitHub
