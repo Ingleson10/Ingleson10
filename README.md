@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no mercado de TI, buscando uma nova oportunidade de emprego no regime CLT/MEI. Tenho paixão por aprimorar minhas habilidades, adquirir conhecimento adicional e contribuir para o sucesso da minha futura equipe e empresa.
+Sou um **Analista Desenvolvedor** com mais de 5 anos de experiência no mercado de TI, buscando uma nova oportunidade de emprego no regime CLT/MEI. Tenho paixão por aprimorar minhas habilidades, adquirir conhecimento adicional e contribuir para o sucesso da minha futura equipe e empresa.
 
 ### Características Profissionais
 
@@ -33,11 +33,11 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-0367b2?&style=for-the-badge&logo=css3&logoColor=white">
   <img alt="EJS" src="https://img.shields.io/badge/EJS-8e44ad?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Lógica de Programação" src="https://img.shields.io/badge/Lógica%20de%20Programação-1e90ff?style=for-the-badge&logo=code&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ### Frameworks
@@ -52,6 +52,7 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="JPA" src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="MVC" src="https://img.shields.io/badge/MVC-00599C?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 ### Ferramentas e Plataformas
@@ -66,6 +67,7 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white">
+  <img alt="Spring Tools" src="https://img.shields.io/badge/Spring%20Tools-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
 ### Banco de Dados
@@ -78,7 +80,19 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### Arquitetura Microserviços
+### ORM
+
+<p align="center">
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-336791?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+  <img alt="Django ORM" src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-007396?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white">
+  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</p>
+
+### Microserviços
 
 <p align="center">
   <img alt="MVC" src="https://img.shields.io/badge/MVC-00599C?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -112,7 +126,7 @@ Sou um **Analista de Sistemas Pleno** com mais de 5 anos de experiência no merc
 
 <p align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingleson10&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingleson10&langs_count=4&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingleson10&langs_count=4&count_private=true"/>
 </p>
 
 ## Contato
