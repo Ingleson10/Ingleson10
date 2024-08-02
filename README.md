@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Analista+de+Sistemas+Pleno+e+Desenvolvedor+Full+Stack" alt="Analista de Sistemas Pleno e Desenvolvedor Full Stack" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=24&pause=2000&color=0153FF&background=FFE2E200&center=true&random=false&width=550&lines=Analista+de+Sistemas+Pleno+e+Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack" />
 </p>
 
 ---
